@@ -4,6 +4,8 @@
 
 A modern web application built with Vite, React, TypeScript, and Tailwind CSS.
 
+🌐 **Live Demo**: [https://makalin.github.io/CyberCine/](https://makalin.github.io/CyberCine/)
+
 ## Features
 - Fast development with Vite
 - Type-safe code with TypeScript
